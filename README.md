@@ -1,6 +1,7 @@
-# 많은 것을 바라는 소박한 인간입니다
+> # made in lazy
+> 귀찮음 속에서 만들어졌습니다.
 
-## solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yourk)](https://solved.ac/yourk)
-## Github Status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yourkme)](https://github.com/anuraghazra/github-readme-stats)<br>
+## Project
+- CHUICHI-NET (Private) : 24.02 ~
+  - CHUNITHM-NET 데이터를 기반으로 CHUNITHM International Version의 데이터를 편하게 조회할 수 있는 프로젝트입니다.
+  - Nextjs + MariaDB based
